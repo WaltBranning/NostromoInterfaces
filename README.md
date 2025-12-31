@@ -14,7 +14,7 @@ This is a vscode theme based on some of the landing control user interfaces from
 This theme is designed to be mostly mono-hue with minimal distractions or colors outside of the main text editor. This is still a WIP so PRs are welcome!
 
 ## Ghostty 
-<img src="https://github.com/WaltBranning/NostromoInterfaces/blob/main/ghostty/nostromo-ghostty.png?raw=true" width="300"/>
+<img src="https://github.com/WaltBranning/NostromoInterfaces/blob/main/ghostty/nostromo-ghostty.png?raw=true"/>
 
 
 # KiCad
